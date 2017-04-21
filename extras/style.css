@@ -1,0 +1,64 @@
+
+
+body {
+background-color:#FFFFFF;
+color:#111111;
+font-family:Arial,Helvetica,sans-serif;
+margin:0px;
+
+}
+
+#position{
+text-align:left; 
+background:#fffff9;
+border:1px #eee solid;
+margin: 0px 40px 0px 40px;
+padding: 5px 40px 0px 40px;
+}
+
+p{
+padding-bottom:10px;
+}
+a{
+text-decoration:none;
+color:#009;
+}
+
+h1{
+font-size:16pt;
+}
+
+.thumb, .editsection{
+display:none;
+position:absolute;
+
+}
+
+
+ #Authors, #aside, #header, #location, #article_tabs, 
+#lower_ads, #pagestats, #accurate, #Actions_table, #Categories,
+#footer, #sub_footer, #relatedwikihows, #externallinks{
+display:none;
+position:absolute;
+}
+
+table.t2 td{
+font-weight=bold;
+width:26px;
+padding:8px 6px 8px 6px;
+text-align:center;
+border:1px white solid;
+}
+table.t2 td:hover{
+background:#ffc;
+border:1px yellow solid;
+}
+table.t2 a{
+font-weight:bold;
+}
+
+
+table.t1 td{
+border:1px #eef solid;
+padding:10px;
+}

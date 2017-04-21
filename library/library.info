@@ -1,0 +1,14 @@
+[Library]
+name = NatureImages
+long_name = nature images 
+global_name = org.laptop.wp-nature-images
+library_version = 8
+host_version = 1
+l10n = false
+locale = en
+license = PD and CC-SA 2.0 and GFDL 
+category = images
+subcategory = photos
+icon = pictures.jpg
+activity = Browse
+activity_start = index.en.html
